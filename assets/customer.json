@@ -1,0 +1,40 @@
+{
+   "customers": [
+      {
+         "id": 1,
+         "name": "Ahmed Ali"
+      },
+      {
+         "id": 2,
+         "name": "Aya Hamdy"
+      },
+      {
+         "id": 3,
+         "name": "Mina Adel"
+      },
+      {
+         "id": 4,
+         "name": "Nada Hamdy"
+      },
+      {
+         "id": 5,
+         "name": "Mai Saied"
+      },
+      {
+         "id": 6,
+         "name": "Radwa Sabry"
+      },
+      {
+         "id": 7,
+         "name": "Nada Adel"
+      },
+      {
+         "id": 8,
+         "name": "Fatma Adel"
+      },
+      {
+         "id": 9,
+         "name": "Marwa Mahmoud"
+      }
+   ]
+}
